@@ -1,0 +1,5 @@
+a=int(input("Enter the 1st namber : "))
+b=int(input("Enter the 2nd namber : "))
+a=float(a)
+b=float(b)
+print("The result is :",a/b)

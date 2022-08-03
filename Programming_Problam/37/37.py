@@ -1,0 +1,5 @@
+a=input("Enter The 1st letter :")
+b=input("Enter The 2nd letter :")
+uppercase=a.upper()
+uppercase1=b.upper()
+print('',"The Result is :",uppercase,"\n","The Result is :",uppercase1)

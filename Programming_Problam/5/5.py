@@ -1,0 +1,2 @@
+a,b=10,6 # 10 এবং 6 দুটি পূর্ন সংখ্যা 
+print("","The Ruselt is sum :", a+b, "\n" , "The Ruselt is sub :", a-b, "\n", "The Result is mul :", a*b, "\n", "The Result is dib :", round(a/b, 2), "\n", "The Result is modolar :",a%b)

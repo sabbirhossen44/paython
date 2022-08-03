@@ -1,0 +1,6 @@
+a=("H   H EEEEE L     L      OOO ")
+b=("H   H E     L     L     O   O")
+c=("HHHHH EEE   L     L     O   O")
+d=("H   H E     L     L     O   O ")
+e=("H   H EEEEE LLLLL LLLLL  OOO ")
+print("","The Program is", "\n",a, "\n", b, "\n", c, "\n", d, "\n", d, "\n", e)
